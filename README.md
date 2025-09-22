@@ -33,4 +33,4 @@ You can view the repository and download certificates directly here:
 
 ## 📜 Notes
 - Documents are provided **as-is** for professional verification.  
-- Please contact me via [LinkedIn](https://linkedin.com/in/ramamerico) or [Email](mailto:ramamerico01@gmail.com) for any further information.
+- Please contact me via [LinkedIn](https://www.linkedin.com/in/ramatoulaye-merico-810a011b0/) or [Email](mailto:ramamerico01@gmail.com) for any further information.
